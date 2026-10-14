@@ -1,0 +1,4 @@
+Application,Standard_LMKD_Delay_ms,Predictive_Engine_Delay_ms,Latency_Saved_ms
+Calculator,150,150,0
+MobileBanking,1800,0,1800
+Navigation,3200,80,3120
