@@ -15,5 +15,6 @@ A trace-driven predictive background memory management engine designed for mobil
 predictive-memory-reclamation/
 ├── memory_simulation.py  # Core 4-Module Engine Logic
 ├── app.py                # Execution Wrapper & CLI
+├── plot_results.py       # Benchmark Graph Generator
 ├── requirements.txt      # Dependency Specification
 └── README.md             # Project Documentation
